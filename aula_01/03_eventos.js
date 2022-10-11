@@ -14,10 +14,10 @@ bot.start(ctx => {
         Eu sou um 'bot' em treinamento!
         Por enquanto eu:
             - Repito o que você digita
-            - Digo as coordenadas de latitude e longitudes se
-            - Retorno o nome e o telefone de um contato que
-            - Ouço uma mensagem de áudio e retorno a duração
-            - Informo a resolução das fotos que você me enviar
+            - Digo as coordenadas de latitude e longitudes se você me fornecer uma localização
+            - Retorno o nome e o telefone de um contato que você me fornecer
+            - Ouço uma mensagem de áudio e retorno a duração dela
+            - Informo a resolução das fotos que você me enviar (cuidado hein =p)
     `)
 })
 
