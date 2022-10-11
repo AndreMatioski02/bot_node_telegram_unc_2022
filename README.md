@@ -1,1 +1,12 @@
-# bot_node_telegram_unc_2022
+**bot_node_telegram_unc_2022**
+
+Chatbot desenvolvimento na disciplina de Sistemas de Apoio a Decisão do curso de Engenharia de Software
+
+UnC Mafra - 2022/2
+
+Tecnologias/Ferramentas utilizadas:
+* Node.js
+* Telegraf
+* Axios
+* Telegram
+* VSCode
